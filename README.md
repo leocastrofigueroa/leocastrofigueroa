@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/JPc3Togn0nIclBoezV/200w.webp" width="1000" height="500">
+<img src="https://media3.giphy.com/media/kvwLnVKxhFChtob1b3/100.webp" width="1000" height="500">
 </div>
 <h2>About me</h2>
 - 🇦🇷  I'm from Mendoza, Argentina <br>
