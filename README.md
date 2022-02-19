@@ -30,7 +30,7 @@
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a><br>
 
-  <br>
+
 ---
 <div align="center">
 ⭐ Thank you for your visit coders, and may the force be with you!
