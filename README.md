@@ -1,7 +1,7 @@
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:46%;position:relative;"><img src="https://giphy.com/embed/kvwLnVKxhFChtob1b3" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-
+<img src="https://media.giphy.com/media/zega7FnLuomtjhVV1T/giphy.gif" width="1000" height="500">
 </div>
+
 <h2>About me</h2>
 - 🇦🇷  I'm from Mendoza, Argentina<br>
 - 💻  Tech enthusiast <br>
