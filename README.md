@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://giphy.com/gifs/JPc3Togn0nIclBoezV" width="1000" height="500">
+<img src="https://media1.giphy.com/media/JPc3Togn0nIclBoezV/200w.webp" width="1000" height="500">
 </div>
 <h2>About me</h2>
-- 🇦🇷  I'm from Mendoza, Argentina
+- 🇦🇷  I'm from Mendoza, Argentina <br>
 - 💻  Tech enthusiast <br>
 - ⚽️  Futbol fan <br>
 - 🐶  Dogs lover <br>
