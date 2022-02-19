@@ -1,8 +1,8 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/zega7FnLuomtjhVV1T/100.webp" width="1000" height="500">
+<img src="https://media.giphy.com/media/zega7FnLuomtjhVV1T/giphy.gif" width="1000" height="500">
 </div>
 <h2>About me</h2>
-- 🇦🇷  I'm from Mendoza, Argentina <br>
+- 🇦🇷  I'm from Mendoza, Argentina
 - 💻  Tech enthusiast <br>
 - ⚽️  Futbol fan <br>
 - 🐶  Dogs lover <br>
@@ -28,3 +28,4 @@
   <a href="mailto:leocastfig@icloud.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
+
